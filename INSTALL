@@ -1,0 +1,9 @@
+Building Waltercoin
+
+See doc/readme-qt.rst for instructions on building Waltercoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Waltercoin.
+
+See doc/build-*.txt for instructions on building waltercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Waltercoin.
