@@ -1,6 +1,6 @@
 Waltercoin, baby!
 
-Compiled with Ubuntu 16.04.
+Compiled linux version with Ubuntu 16.04.
 
 Commands to install dependencies:
 ```
